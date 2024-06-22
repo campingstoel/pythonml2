@@ -1,0 +1,5 @@
+{
+    "board": "arduino:samd:adafruit_circuitplayground_m0",
+    "sketch": "arduino_sender\\PixMob_Transmitter_Arduino\\PixMob_Transmitter_Arduino.ino",
+    "port": "COM3"
+}
